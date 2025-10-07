@@ -33,7 +33,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di lingkungan loka
 
 - PHP **v8.1+**
 - Composer
-- Database **MySQL/MariaDB**
+- Database **MySQL**
 
 ---
 
@@ -41,8 +41,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di lingkungan loka
 
 #### 1. Clone Repositori
 ```bash
-git clone https://github.com/zakiamayta/arsip-surat.git
-cd arsip-surat
+git clone https://github.com/zakiamayta/Arsip-Surat.git
+cd Arsip-Surat
 ```
 
 #### 2. Instal Dependensi PHP
@@ -112,7 +112,7 @@ Aplikasi akan berjalan di:
 
 | Komponen | Teknologi |
 |-----------|------------|
-| Framework | Laravel 10/11 |
+| Framework | Laravel 11 |
 | Database | MySQL |
 | Styling | Bootstrap 5 |
 
